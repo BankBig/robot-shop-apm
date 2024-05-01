@@ -29,7 +29,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "elastic-apm-js-core": "2.0.0",
+    "elastic-apm-js-core": "2.5.0",
     "es6-promise": "4.2.4"
   },
   "deprecated": false,
